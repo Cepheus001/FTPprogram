@@ -1,0 +1,16 @@
+C:\Users\scott\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\scott\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\scott\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\scott\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\FTPClient.exe.config
+C:\Users\scott\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\FTPClient.exe
+C:\Users\scott\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\FTPClient.pdb
+C:\Users\scott\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\FTPClient.exe
+C:\Users\scott\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\FTPClient.pdb
+C:\Users\scott\source\repos\ConsoleApp2\bin\Debug\FTPClient.exe.config
+C:\Users\scott\source\repos\ConsoleApp2\bin\Debug\FTPClient.exe
+C:\Users\scott\source\repos\ConsoleApp2\bin\Debug\FTPClient.pdb
+C:\Users\scott\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\scott\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\scott\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\scott\source\repos\ConsoleApp2\obj\Debug\FTPClient.exe
+C:\Users\scott\source\repos\ConsoleApp2\obj\Debug\FTPClient.pdb
